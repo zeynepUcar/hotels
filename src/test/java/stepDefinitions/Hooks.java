@@ -8,7 +8,7 @@ public class Hooks {
     @After
     public void afterMethod(){
 
-        Driver.closeBrowser();
+      // Driver.closeBrowser();
 
 
     }
